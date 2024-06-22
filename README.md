@@ -12,7 +12,9 @@ LangLab is a browser-based code editor developed using React, Monaco React Edito
 
 ## Demo Video
 
-https://github.com/rajeshpolarati/Langlab/assets/87992930/a87741e8-69f5-4e62-ae60-88ae95312ad7
+
+https://github.com/rajeshpolarati/Langlab/assets/87992930/cfa30f2c-2ebe-42ff-88b4-025a5a27500d
+
 
 ## Installation
 
